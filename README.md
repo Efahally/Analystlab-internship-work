@@ -49,7 +49,7 @@ The dashboard is built on the **Global Superstore** dataset — order-level reta
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open `Glo_Sales.pbix` in **Power BI Desktop** (2023 release or later recommended).
+2. Open `Global Sals dashboard.pbix` in **Power BI Desktop** (2023 release or later recommended).
 3. Use the **Category** and **Segment** slicers to filter the report.
 4. Hover over any visual for detailed tooltips, or click a region to cross-filter the entire page.
 
@@ -71,8 +71,8 @@ The dashboard is built on the **Global Superstore** dataset — order-level reta
 
 ## 📬 Contact
 
-**[Your Name]**
-[Your Email] | [LinkedIn] | [Portfolio]
+**Longlife Boyefa**
+Hallyboy321@gmail.com 
 
 ---
 *This project was completed as part of a data analytics internship and is intended to showcase Power BI and data visualization skills.*
